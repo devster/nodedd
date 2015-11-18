@@ -1,0 +1,12 @@
+{
+  "name": "nodedd",
+  "version": "0.0.3",
+  "description": "[WIP] A dd tool in node",
+  "author": "Jeremy Perret <jeremy@devster.org>",
+  "dependencies": {
+    "commander": "~2.8"
+  },
+  "bin": {
+    "nodedd": "nodedd.js"
+  }
+}
